@@ -1,0 +1,21 @@
+body {background-color: lightcyan}
+hr {
+  border-style: dotted none none none;
+   border-width: 10px;
+  border-color: lightgrey;
+  border-right: 100px;
+  margin-right: 400px;
+}
+h1{
+  color: red;
+  font-size: 40px;
+}
+h3
+{
+  color: blue;
+}
+.great:hover
+{
+  background-color: yellow;
+  color: blue;
+}
